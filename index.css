@@ -69,7 +69,7 @@ div {
 }
 
 * {
-    border: 1px solid greenyellow;
+    /* border: 1px solid greenyellow; */
 }
 iframe {
     margin-top: 30px;
