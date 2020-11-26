@@ -1,0 +1,296 @@
+.katta {
+    position: relative;
+    /* border: 1px solid green; */
+    height: 36px;
+}
+
+.ctn1 {
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 5%;
+    transform: translate(-50%,-50%);
+}
+
+.ctn2 {
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.ctn3 {
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    right: 1%;
+    transform: translate(-8%,-50%);
+}   
+
+.nav-dib {
+    display: inline-block;
+}
+
+.search {
+    width: 300px;
+}
+
+.fa-search {
+    font-size: 14px;
+}
+img {
+    padding: 0px 5px;
+}
+
+.search {
+    border: 1px solid lightgray;
+}
+
+i {
+    display: inline-block;
+    padding: 5px 15px;
+}
+
+div {
+    display: inline-block;
+}
+
+.fa-keyboard {
+    position: absolute;
+    right: 40px;
+}
+.input_keyboard {
+    font-size: 16px;
+}
+
+.search {
+    padding: 5px 10px;
+}
+
+* {
+    border: 1px solid greenyellow;
+}
+iframe {
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+strong {
+    margin-left: 100px;
+}
+
+.son {
+    margin-left: 50px;
+    width: fit-content;
+}
+
+.fa-thumbs-up {
+    margin-left: 20px;
+}
+.fa-thumbs-down,
+.fa-share,
+.fa-folder-plus {
+    margin-left: 2px ;
+}
+.raqam {
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    margin-left: 90px;
+}
+span button {
+    margin-left: 500px;
+    background-color: red;
+    width: 90px;
+    height: 40px;
+}
+
+.teppa {
+    position: absolute;
+    right: 1270px;
+}
+
+
+}
+
+.odamlar {
+    margin-bottom: 20px;
+}
+
+.komment {
+    margin-top: 40px;
+}
+
+.its {
+    border-radius: 50px;
+    margin-left: 50px;
+}
+
+.grey {
+    color: gray;
+}
+
+.komp {
+    margin-left: 0px;
+}
+
+.yozuv {
+   margin-left: 30px; 
+}
+
+.chapdiv {
+    float: left;
+}
+
+.rightdiv {
+  position: relative;
+}
+
+.chap2 {
+    position: absolute;
+    left: 0px;
+    margin-top: 5px;
+}
+
+.chap3 {
+    position: absolute;
+    left: 0px;
+    margin-top: 200px;
+}
+
+.chap4 {
+    position: absolute;
+    left: 0px;
+    margin-top: 400px;
+}
+
+.chap5 {
+    position: absolute;
+    left: 0px;
+    margin-top: 600px;
+}
+
+.chap6 {
+    position: absolute;
+    left: 0px;
+    margin-top: 800px;
+}
+.chap7 {
+    position: absolute;
+    left: 0px;
+    margin-top: 1000px;
+}
+.chap8 {
+    position: absolute;
+    left: 0px;
+    margin-top: 1200px;
+}
+.chap9 {
+    position: absolute;
+    left: 0px;
+    margin-top: 1400px;
+}
+.chap10 {
+    position: absolute;
+    left: 0px;
+    margin-top: 1600px;
+}
+.harf {
+    position: relative;
+}
+.bu {
+    position: absolute;
+    left:320px;
+    margin-top: 40px;
+    width: 200px;
+    height: 120px;
+}
+.harf1 {
+    position: relative;
+}
+.bu1 {
+    position: absolute;
+    left:320px;
+    margin-top: 840px;
+    width: 200px;
+    height: 120px;
+}
+
+.harf2 {
+    position: relative;
+}
+.bu2 {
+    position: absolute;
+    left:320px;
+    margin-top: 240px;
+    width: 200px;
+    height: 120px;
+}
+
+.harf3 {
+    position: relative;
+}
+.bu3 {
+    position: absolute;
+    left:320px;
+    margin-top: 440px;
+    width: 200px;
+    height: 120px;
+}
+
+.harf4 {
+    position: relative;
+}
+.bu4 {
+    position: absolute;
+    left:320px;
+    margin-top: 640px;
+    width: 200px;
+    height: 120px;
+}
+
+.harf5 {
+    position: relative;
+}
+.bu5 {
+    position: absolute;
+    left:290px;
+    margin-top: 1040px;
+    width: 200px;
+    height: 120px;
+}
+
+.harf6 {
+    position: relative;
+}
+.bu6 {
+    position: absolute;
+    left:290px;
+    margin-top: 1240px;
+    width: 200px;
+    height: 120px;
+}
+
+.harf7 {
+    position: relative;
+}
+.bu7 {
+    position: absolute;
+    left:290px;
+    margin-top: 1440px;
+    width: 200px;
+    height: 120px;
+}
+
+.harf8 {
+    position: relative;
+}
+.bu8 {
+    position: absolute;
+    left:290px;
+    margin-top: 1640px;
+    width: 200px;
+    height: 120px;
+}

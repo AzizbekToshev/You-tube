@@ -1,39 +1,83 @@
-nav {
-    padding: 10px;
+.nav{
+
 }
-/* *{ */
-    /* border: 1px solid black */
-}
-.fa-bars,
-.fa-youtube,
-span {
-    margin-left:10px;
-}
-div {
- display: inline-block;
-    width:fit-content ;
-    margin: 5px;
-}
-header {
+.katta {
+    width:fit-content;
     position: relative;
-}
-.ctn1 {
-    position: absolute;
-    left: 5px;
+    border: 1px solid green;
+    height: 36px;
 }
 
-.ctn2{
-    margin-left: 700px;
-    height: 30px;
-    position: relative;
-}
-.fa-keyboard {
+.ctn1 {
+    width: fit-content;
     position: absolute;
-    right: 23px  ;
+    margin: 0;
+    top: 50%;
+    left: 5%;
+    transform: translate(-50%,-50%);
 }
+
+.ctn2 {
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
 .ctn3 {
     position: absolute;
-    right: 5px;
-    padding-right: 10px;
-    margin-right: 10px;
+    margin: 0;
+    top: 50%;
+    right: 1%;
+    transform: translate(-8%,-50%);
+}   
+
+.nav-dib {
+    display: inline-block;
 }
+
+.search {
+    width: 300px;
+}
+
+.fa-search {
+    font-size: 14px;
+}
+img {
+    padding: 0px 5px;
+    margin: 0px 10px;
+    width: 100px;
+    height: 100px;
+}
+.ctn2 {
+    margin-left: 300px;
+
+.search {
+    border: none;
+}
+
+i {
+    display: inline-block;
+    padding: 5px 15px;
+}
+
+div {
+    display: inline-block;
+    /* margin-left: 300px; */
+}
+
+.fa-keyboard {
+    position: absolute;
+    right: 40px;
+}
+.input_keyboard {
+    font-size: 16px;
+}
+
+.search {
+    padding: 5px 10px;
+}
+
+* {
+    border: 1px solid greenyellow;
